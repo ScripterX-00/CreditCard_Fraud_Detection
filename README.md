@@ -88,8 +88,8 @@ Note: Accuracy alone is not enough due to class imbalance. Precision and recall 
 CreditCard_Fraud_Detection/
 │
 ├── CreditCard_Fraud_Detection.ipynb
-├── README.md
-└── dataset.csv   # Project documentation
+├── creditcard.csv
+└── README.md   # Project documentation
 ```
 ---
 
