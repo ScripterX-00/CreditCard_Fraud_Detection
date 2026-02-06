@@ -81,16 +81,16 @@ Note: Accuracy alone is not enough due to class imbalance. Precision and recall 
 - Run all cells sequentially
 - View results and evaluation metrics
 
----
+
 ##  Project Structure
 
-
+```
 CreditCard_Fraud_Detection/
 │
 ├── CreditCard_Fraud_Detection.ipynb
 ├── README.md
 └── dataset.csv   # Project documentation
-
+```
 ---
 
 ##  Key Learnings
